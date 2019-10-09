@@ -1,5 +1,7 @@
 # front-page
 
+此部分为前端代码 嘤嘤嘤
+
 ## Project setup
 ```
 npm install
@@ -23,7 +25,3 @@ npm run test
 ### Lints and fixes files
 ```
 npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
